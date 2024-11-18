@@ -33,4 +33,5 @@ Brief Timeline of events
   I never needed to use Jupyter locally, but now looking at my simplified code. 
 
 
-# Time to write the Paper and demonstration
+# Demonstration, 
+* see
