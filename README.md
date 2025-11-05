@@ -33,6 +33,7 @@ Brief Timeline of events
   I never needed to use Jupyter locally, but now looking at my simplified code. 
 
 
-# Demonstration, 
-* See Privacy Preserving Machine Learning.pdf
-* All reference material is cited in the paper
+# Paper and Demonstration
+Privacy Preserving Machine Learning Through Fully Homomorphic Encryption DOI: 10.6084/m9.figshare.30334657
+
+slides created for capstone presentation are within the repo
